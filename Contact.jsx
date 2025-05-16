@@ -14,7 +14,7 @@ export default function ContactSection() {
         }
 
         const script = document.createElement('script');
-        script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyDbs57kIoPvRR0anFyd7zd4C1Zof6Z3R8w`;
+        script.src = `https://maps.googleapis.com/maps/api/js?key=xxxxxxxxxxxxxxx;
         script.async = true;
         script.defer = true;
 
